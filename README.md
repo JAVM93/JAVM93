@@ -40,11 +40,11 @@
    ![JavaScript](https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
 
 <br>
-<!--
-- **Cloud Hosting**:
 
-    ![Github Pages](https://img.shields.io/badge/GitHub%20Pages-%23327FC7.svg?style=for-the-badge&logo=github&logoColor=white)
-    -->
+- **Active Projects**:
+    *SmileX*
+    [![Netlify Status](https://api.netlify.com/api/v1/badges/0dd6968c-6bbd-4dd8-ae57-b8226b584b53/deploy-status)](https://app.netlify.com/sites/smilexdev/deploys)
+  
 <br>
 
 - **Softwares and Tools**:
